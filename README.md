@@ -68,7 +68,7 @@
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ4a2locTF1d2M5cG03dmVjZTI0a2pneW91OHY4bmhnYTE4NGRpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 
 ###
-
+<p>🔗 Connect</p>
 <div align="left">
   <a href="https://www.instagram.com/domi_._ka/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
