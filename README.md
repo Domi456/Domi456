@@ -13,13 +13,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <p>Visitor count:</p>
-  <img src="https://profile-counter.glitch.me/Domi456/count.svg?"  />
-</div>
-
-###
 <p>🧰 Languages and tools</p>
 <div align="left">
 
