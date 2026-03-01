@@ -1,6 +1,6 @@
 <h2 align="left">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hey!+I'm+Domi+(Domi456);Welcome+to+my+GitHub!;Let's+look+around+👀;&font=Fira+Code&duration=4000&pause=1000&color=FF5C00&center=true&width=800&height=100" 
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hey!+I'm+Domi.;Welcome+to+my+GitHub!;Let's+look+around+👀;&font=Fira+Code&duration=4000&pause=1000&color=FF5C00&center=true&width=800&height=100" 
       alt="Typing Header" />
   </p>
 </h2>
